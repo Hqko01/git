@@ -49,4 +49,3 @@ Bu komut ile ilk başta **klonladığımız depo** güncellenmiş oluyor.
  
 <br>
 
-<img src="https://images.app.goo.gl/j7sUmUuQ1iA1pDsY7">
